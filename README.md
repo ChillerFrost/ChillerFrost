@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ChillerFrost
 - 👀 I’m interested in produceing a piece of game engine software
-- 🌱 I’m currently learning the basics of codeing in C++
+- 🌱 I’m currently learning the basics of codeing in Java, Python, C# and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Discord: chiller frost#5438
 
 <!---
 ChillerFrost/ChillerFrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
