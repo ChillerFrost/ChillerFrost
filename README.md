@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the basics of codeing in Java, Python, C# and C++
 - 💞️ I’m looking to collaborate on whatever projects I could help in
 - 📫 How to reach me 
-- Discord: chiller frost#5438
+- Discord: real_chiller_frost
 - LinkedIn: https://www.linkedin.com/in/carson-motowski-143419316?trk=people-guest_people_search-card
 
 <!---
