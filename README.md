@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ChillerFrost
-- 👀 I’m interested in produceing a piece of game engine software
-- 🌱 I’m currently learning the basics of codeing in Java, Python, C# and C++
 - 💞️ I’m looking to collaborate on whatever projects I could help in
 - 📫 How to reach me 
 - Discord: real_chiller_frost
