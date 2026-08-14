@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChillerFrost
 - 📫 How to reach me 
 - Discord: real_chiller_frost
-- LinkedIn: https://www.linkedin.com/in/carsonm
 
 <!---
 ChillerFrost/ChillerFrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
