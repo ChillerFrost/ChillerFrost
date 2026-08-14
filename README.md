@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ChillerFrost
-- 💞️ I’m looking to collaborate on whatever projects I could help in
 - 📫 How to reach me 
 - Discord: real_chiller_frost
 - LinkedIn: https://www.linkedin.com/in/carsonm
